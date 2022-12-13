@@ -67,7 +67,7 @@ body{
 p{
     color: white;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 
@@ -107,7 +107,7 @@ p{
 .card::after{
     bottom: -2em;
     right: 0.9em;
-    width: 41%;
+    width: 40%;
     height: 5em;
     transform: rotate(-38deg);
     box-sizing: 1rem;
