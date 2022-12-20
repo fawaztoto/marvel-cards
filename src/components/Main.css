@@ -116,7 +116,7 @@ p{
 .content__sp{
     width: 65%;
     margin-left: 200px ;
-    height: 790px;
+    height: 780px;
     background: linear-gradient( rgb(155, 4, 243)),url(groupp.png);
     color: white;
     font-size: 1.3rem;
@@ -136,10 +136,10 @@ p{
 
 
 .content__sp img{
-    width: 260px;
-    height: 360px;
+    width: 240px;
+    height: 340px;
     border: 1px solid white;
-    box-shadow: 0 5px 5px 5px rgba(255, 255, 255, 0.2);
+    box-shadow: 0 5px 5px 5px rgba(235, 235, 235, 0.2);
     transform: rotate(20deg);
     transition: 0.5s;
 }
