@@ -115,8 +115,8 @@ p{
 
 .content__sp{
     width: 65%;
-    margin-left: 200px ;
-    height: 780px;
+    margin-left: 190px ;
+    height: 7600px;
     background: linear-gradient( rgb(155, 4, 243)),url(groupp.png);
     color: white;
     font-size: 1.3rem;
@@ -131,7 +131,7 @@ p{
 }
 
 .left-box{
-    flex-basis: 50%;
+    flex-basis: 49%;
 }
 
 
