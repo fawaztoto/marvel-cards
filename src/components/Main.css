@@ -13,8 +13,8 @@ body{
 }
 
 .header__logo{
-    height: 60px;
-    margin-right: 20px;
+    height: 40px;
+    margin-right: 10px;
     margin-top: 10px;
     border-radius: 10px;
     
@@ -136,8 +136,8 @@ p{
 
 
 .content__sp img{
-    width: 220px;
-    height: 330px;
+    width: 200px;
+    height: 310px;
     border: 1px solid white;
     box-shadow: 0 5px 5px 5px rgba(235, 235, 235, 0.2);
     transform: rotate(20deg);
