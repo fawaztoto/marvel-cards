@@ -13,10 +13,10 @@ body{
 }
 
 .header__logo{
-    height: 10px;
-    margin-right: 10px;
+    height: 9px;
+    margin-right:8px;
     margin-top: 5px;
-    border-radius: 5px;
+    border-radius: 4px;
     
    
  
@@ -25,7 +25,7 @@ body{
 .search-bar{
     width: 42%;
     display: flex;
-    margin: 0 20px;
+    margin: 0 21px;
     align-items: center;
 
     
